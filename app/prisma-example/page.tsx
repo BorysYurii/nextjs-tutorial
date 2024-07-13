@@ -17,7 +17,7 @@ const PrismaExample = async () => {
 
   return (
     <div>
-      <h1 className="text-7xl">PrismaExample</h1>
+      <h1 className="text-7xl">Prisma Example 😬</h1>
       {tasks.map((task) => {
         return (
           <h2 key={task.id} className="text-xl py-2">
