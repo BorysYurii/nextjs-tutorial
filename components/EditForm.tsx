@@ -1,5 +1,5 @@
 import React from "react";
-import { editTask } from "../app/utils/actions";
+import { editTask } from "@/utils/actions";
 
 interface ITask {
   task: { id: string; content: string; completed: boolean };

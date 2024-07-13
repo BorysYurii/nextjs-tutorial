@@ -1,5 +1,5 @@
 import React from "react";
-import { getTask } from "../../utils/actions";
+import { getTask } from "../../../utils/actions";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import EditForm from "@/components/EditForm";

@@ -1,6 +1,6 @@
 "use client";
 import { useFormState, useFormStatus } from "react-dom";
-import { deleteTask } from "../app/utils/actions";
+import { deleteTask } from "../utils/actions";
 import { useEffect } from "react";
 import toast from "react-hot-toast";
 
